@@ -1,0 +1,17 @@
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.csproj.AssemblyReference.cache
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\PluginInfo.cs
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.AssemblyInfoInputs.cache
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.AssemblyInfo.cs
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.csproj.CoreCompileInputs.cache
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.pdb
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\Assembly-CSharp.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\UnityEngine.UI.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\Assembly-CSharp-firstpass.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\com.rlabrecque.steamworks.net.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\XInputDotNetPure.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\bin\Debug\net46\Sirenix.OdinInspector.Attributes.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.csproj.CopyComplete
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.dll
+C:\Users\dalto\source\repos\TalesOfTheNeonSea_ConsoleCommands\obj\Debug\net46\TalesOfTheNeonSea_ConsoleCommands.pdb
